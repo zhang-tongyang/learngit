@@ -4,3 +4,4 @@ Git has a mutable index callde stage.
 Git tracks changes.
 Today,I want to solve this problem
 Creating a new branch is quick AND simple.
+add merge.
