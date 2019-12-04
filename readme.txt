@@ -5,3 +5,4 @@ Git tracks changes.
 Today,I want to solve this problem
 Creating a new branch is quick AND simple.
 add merge.
+Bug branch.
